@@ -1,4 +1,4 @@
-package edu.raimundo.controlefluxo;
+package edu.raimundo.controlefluxo.estruturacondicional;
 
 public class SistemaMedida {
     public static void main(String[] args) {

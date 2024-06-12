@@ -1,4 +1,4 @@
-package edu.raimundo.estruturarepeticao;
+package edu.raimundo.controlefluxo.estruturarepeticao;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package edu.raimundo.estruturarepeticao;
+package edu.raimundo.controlefluxo.estruturarepeticao;
 
 public class ExemploFor {
     public static void main(String[] args) {

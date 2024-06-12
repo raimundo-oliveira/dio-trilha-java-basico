@@ -1,4 +1,4 @@
-package edu.raimundo.controlefluxo;
+package edu.raimundo.controlefluxo.estruturacondicional;
 
 public class PlanoOperadora {
     public static void main(String[] args) {
